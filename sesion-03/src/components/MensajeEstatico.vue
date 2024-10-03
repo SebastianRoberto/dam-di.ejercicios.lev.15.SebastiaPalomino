@@ -1,15 +1,15 @@
 <script setup>
 
-
-
 </script>
 
-<template>
 
- Bienvenido al curso de Vue-3
+<template>
+<p>
+Bienvenido al curso de Vue-3
+</p>
+
 </template>
 
 <style scope>
-
 
 </style>
