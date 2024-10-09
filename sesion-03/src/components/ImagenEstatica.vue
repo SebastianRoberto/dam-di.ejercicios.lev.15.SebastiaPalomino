@@ -1,5 +1,6 @@
 <template>
     <div class="imagen-estatica">
+        <h5>EJ:ImagenEstatica</h5>
       <h2>Imagen Local</h2>
       <img :src="imagenLocal" alt="Imagen Local" />
   

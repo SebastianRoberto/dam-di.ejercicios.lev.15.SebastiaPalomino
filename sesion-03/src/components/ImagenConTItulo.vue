@@ -1,5 +1,6 @@
 <template>
     <div class="imagen-con-titulo">
+        <h5>EJ:ImagenConTitulo</h5>
       <img :src="imagenUrl" alt="Imagen relacionada" />
       <h2>{{ titulo }}</h2>
     </div>

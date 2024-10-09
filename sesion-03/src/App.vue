@@ -7,6 +7,7 @@ import TituloDInamico from './components/TituloDInamico.vue';
 import ListaTitulos from './components/ListaTitulos.vue';
 import ParrafoFormato from './components/ParrafoFormato.vue';
 import ImagenConTItulo from './components/ImagenConTItulo.vue';
+import CabeceraSesion from './components/CabeceraSesion.vue';
 </script>
 
 <template>
@@ -14,6 +15,7 @@ import ImagenConTItulo from './components/ImagenConTItulo.vue';
   <div>
    Ejercicios
 </div>
+<CabeceraSesion />
 <TituloDInamico></TituloDInamico>
 <ListaTitulos />
  <MensajeEstatico></MensajeEstatico>

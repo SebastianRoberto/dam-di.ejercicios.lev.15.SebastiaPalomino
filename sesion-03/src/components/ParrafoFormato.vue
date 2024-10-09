@@ -1,5 +1,6 @@
 <template>
     <div class="parrafo-formato">
+        <h5>EJ:ParrafoFormato</h5>
       <p class="text-large highlight">Este es un párrafo</p>
     </div>
   </template>

@@ -1,5 +1,6 @@
 <template>
     <div class="titulo-dinamico">
+        <h5>EJ:TituloDinamico:</h5>
       <h1>{{ titulo }}</h1>
     </div>
   </template>
