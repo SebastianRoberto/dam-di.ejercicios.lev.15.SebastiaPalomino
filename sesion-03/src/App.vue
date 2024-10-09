@@ -6,6 +6,7 @@ import ImagenEstatica from './components/ImagenEstatica.vue';
 import TituloDInamico from './components/TituloDInamico.vue';
 import ListaTitulos from './components/ListaTitulos.vue';
 import ParrafoFormato from './components/ParrafoFormato.vue';
+import ImagenConTItulo from './components/ImagenConTItulo.vue';
 </script>
 
 <template>
@@ -20,6 +21,7 @@ import ParrafoFormato from './components/ParrafoFormato.vue';
  <LibroInfo></LibroInfo>
  <ImagenEstatica></ImagenEstatica>
  <ParrafoFormato />
+ <ImagenConTItulo />
  
  
  
