@@ -1,20 +1,4 @@
 import { createApp } from 'vue';
-import App01 from './AP01/App.vue';
-import App02 from './AP02/App.vue';
-import App03 from './AP03/App.vue';
-import App04 from './AP04/App.vue';
-import App05 from './AP05/App.vue';
-import App06 from './AP06/App.vue';
-import App07 from './AP07/App.vue';
-import App08 from './AP08/App.vue';
-import App09 from './AP09/App.vue';
+import App from './App.vue';
 
-createApp(App01).mount('#app01');
-createApp(App02).mount('#app02');
-createApp(App03).mount('#app03');
-createApp(App04).mount('#app04');
-createApp(App05).mount('#app05');
-createApp(App06).mount('#app06');
-createApp(App07).mount('#app07');
-createApp(App08).mount('#app08');
-createApp(App09).mount('#app09');
+createApp(App).mount('#app');
